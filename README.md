@@ -11,7 +11,7 @@ Introduction:
 
 Please consider citing our work appropriately if this code is useful for you. Thanks :)
 
-Sebasti√°n Salazar-Colores, Ivan Cruz-Aceves, Juan-Manuel Ramos-Arreguin, 
+Sebasti·n Salazar-Colores, Ivan Cruz-Aceves, Juan-Manuel Ramos-Arreguin, 
 "Single image dehazing using a multilayer perceptron," 
 Journal of Electronic Imaging 27(4), 043022 (25 July 2018). 
 https://doi.org/10.1117/1.JEI.27.4.043022 .
